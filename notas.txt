@@ -1,3 +1,12 @@
 mysql
-123456
-data_base_name=
+data_base_name=apirestjava
+password=123456
+
+
+Docs:
+Arquitectura MVC (Modelo Vista Controlador) 
+Cree una base de datos de MySql, 
+utilice spring boot para la creacion de las tablas y la insercion de datos con su ORM JPA,
+utilice el framework de spring boot para la creacion de los servicios REST,
+utilice lombok para la creacion de los getters y setters,
+utilice spring security para la autenticacion de los servicios REST,
