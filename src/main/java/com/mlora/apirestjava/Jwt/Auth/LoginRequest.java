@@ -1,4 +1,4 @@
-package com.mlora.apirestjava.Auth.LoginRequest;
+package com.mlora.apirestjava.Jwt.Auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

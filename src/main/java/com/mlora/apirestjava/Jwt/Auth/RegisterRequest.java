@@ -1,4 +1,4 @@
-package com.mlora.apirestjava.Auth.RegisterRequest;
+package com.mlora.apirestjava.Jwt.Auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 public class RegisterRequest {
     String username;
     String password;
-    String firstName;
-    String lastName;
+    String firstname;
+    String lastname;
     String country;
 }
